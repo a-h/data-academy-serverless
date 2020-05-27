@@ -1,0 +1,7 @@
+[
+    {
+        "Source": "Transactions",
+        "Detail": "{\"id\":\"0\",\"date\":\"2020-05-27T11:18:38.037170016Z\",\"location\":\"Edinburgh\",\"customerName\":\"Angele Betancourt\",\"basket\":[{\"item\":{\"id\":\"1590603829\",\"name\":\"New beets\",\"cost\":1691},\"quantity\":1},{\"item\":{\"id\":\"1590603829\",\"name\":\"Tea\",\"cost\":2375},\"quantity\":1},{\"item\":{\"id\":\"1590603829\",\"name\":\"Vegetable\",\"cost\":410},\"quantity\":4},{\"item\":{\"id\":\"1590603829\",\"name\":\"Puree of split peas aux croutons\",\"cost\":4095},\"quantity\":4},{\"item\":{\"id\":\"1590603829\",\"name\":\"Breaded veal cutlet with peas\",\"cost\":4997},\"quantity\":3},{\"item\":{\"id\":\"1590603829\",\"name\":\"St. Emilion\",\"cost\":3570},\"quantity\":5},{\"item\":{\"id\":\"1590603829\",\"name\":\"Bouillon, en Tasse\",\"cost\":1455},\"quantity\":1},{\"item\":{\"id\":\"1590603829\",\"name\":\"Clear green turtle\",\"cost\":976},\"quantity\":2},{\"item\":{\"id\":\"1590603829\",\"name\":\"St. Julien\",\"cost\":3414},\"quantity\":1},{\"item\":{\"id\":\"1590603829\",\"name\":\"Smoked beef in cream\",\"cost\":5230},\"quantity\":4}],\"total\":82668,\"paymentMethod\":\"card\"}",
+        "DetailType": "Transaction"
+    }
+]
